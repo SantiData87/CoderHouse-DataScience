@@ -2,4 +2,8 @@ Este es el primer arhcivo del repositorio
 Este escrito fue escrito en el entorno remoto
 Modificacion Local
 Modificacion local en mi_rama
+<<<<<<< HEAD
 Modificacion local-mi_rama 2
+=======
+Agregado en remoto main
+>>>>>>> ea1c7006556120ce96990a64258ea80ecd13d497
