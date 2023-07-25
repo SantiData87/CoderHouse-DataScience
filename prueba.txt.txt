@@ -2,3 +2,7 @@ Este es el primer arhcivo del repositorio
 Este escrito fue escrito en el entorno remoto
 Modificacion Local
 Modificacion local en mi_rama
+Modificacion local-mi_rama 2
+Ultimo local-mi rama
+
+Muy ultimo mi rama (no main)
